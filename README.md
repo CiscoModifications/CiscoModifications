@@ -1,7 +1,7 @@
-### 📠 [FAXES][website] 📠
+### 📠 [Cisco][website] 📠
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/FAXES_YT?label=Follow)](https://twitter.com/intent/follow?screen_name=FAXES_YT)
-[![GitHub followers](https://img.shields.io/github/followers/FAXES?label=Follow&style=social)](https://github.com/FAXES)
+[![Twitter Follow](https://img.shields.io/twitter/follow/CiscoModifications?label=Follow)](https://twitter.com/intent/follow?screen_name=FAXES_YT)
+[![GitHub followers](https://img.shields.io/github/followers/CiscoModifications?label=Follow&style=social)](https://github.com/FAXES)
 [![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://ciscomodifications.net/discord)](https://ciscomodifications.net/discord)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://store.ciscomodifications.com)](https://store.ciscomodifications.com)
 ![](https://komarev.com/ghpvc/?username=FAXES&label=Views)
