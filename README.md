@@ -2,21 +2,21 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/FAXES_YT?label=Follow)](https://twitter.com/intent/follow?screen_name=FAXES_YT)
 [![GitHub followers](https://img.shields.io/github/followers/FAXES?label=Follow&style=social)](https://github.com/FAXES)
-[![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://faxes.zone/discord)](https://faxes.zone/discord)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://faxes.zone)](https://faxes.zone)
+[![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://ciscomodifications.net/discord)](https://ciscomodifications.net/discord)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://store.ciscomodifications.com)](https://store.ciscomodifications.com)
 ![](https://komarev.com/ghpvc/?username=FAXES&label=Views)
 
-*Hi, I'm FAXES, a Full Stack Developer located in Australia, mainly working on Node based websites, I have previously worked on FiveM resources, Discord bots, PHP websites, and many more. I've been in the programming world since 2017 and have fully self taught myself from various resources online. I love to code and it's a passion turned into a [business][website] which I currently operate.*
+*Hi, I'm Cisco, a Full Stack Developer located in California, mainly working on FiveM resources, Discord bots, PHP websites, and many more. I've been in the programming world since 2017 and have fully self taught myself from various resources online. I love to code and it's a passion turned into a [business][website] which I currently operate.*
 
 *Feel free to shoot me a follow or star some repositories!*
 
 <br />
 
-<a href="https://discord.gg/faxes" target="_blank">
+<a href="https://ciscomodifications.net/discord" target="_blank">
       <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://api.weblutions.com/discord/invite/faxes">
-            <source media="(prefers-color-scheme: light)" srcset="https://api.weblutions.com/discord/invite/faxes/light">
-            <img alt="Discord Invite" src="https://api.weblutions.com/discord/invite/faxes">
+            <source media="(prefers-color-scheme: dark)" srcset="https://api.store.ciscomodifications.com/discord/invite/CiscoMods">
+            <source media="(prefers-color-scheme: light)" srcset="https://api.store.ciscomodifications.com/discord/invite/Cisco/light">
+            <img alt="Discord Invite" src="https://api.store.ciscomodifications.com/discord/invite/CiscoMods">
       </picture>
 </a>
 
@@ -119,8 +119,8 @@ Roff                     1 repo              ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-[website]: https://faxes.zone
-[twitter]: https://twitter.com/FAXES_YT
-[twitch]: https://twitch.tv/FAXES_YT
-[youtube]: https://youtube.com/c/faxes_yt
-[discord]: https://faxes.zone/discord
+[website]: https://store.ciscomodifications.com
+[twitter]: https://twitter.com/Cisco Modifications
+[twitch]: https://twitch.tv/Cisco Modifications
+[youtube]: https://youtube.com/c/Cisco Modifications
+[discord]: https://ciscomodifications.com/discord
